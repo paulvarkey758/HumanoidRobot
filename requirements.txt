@@ -1,0 +1,6 @@
+sudo pip install adafruit-pca9685
+sudo apt-get install festival
+sudo apt-get install python-bluetooth
+sudo apt-get install bluetooth bluez libbluetooth-dev blueman
+sudo apt-get install sqlite3
+sudo apt-get install sqlitebrowser
